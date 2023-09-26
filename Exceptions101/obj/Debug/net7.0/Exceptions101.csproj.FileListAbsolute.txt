@@ -1,0 +1,14 @@
+C:\Users\jedde\Documents\GitHub\foundational-csharp\Exceptions101\bin\Debug\net7.0\Exceptions101.exe
+C:\Users\jedde\Documents\GitHub\foundational-csharp\Exceptions101\bin\Debug\net7.0\Exceptions101.deps.json
+C:\Users\jedde\Documents\GitHub\foundational-csharp\Exceptions101\bin\Debug\net7.0\Exceptions101.runtimeconfig.json
+C:\Users\jedde\Documents\GitHub\foundational-csharp\Exceptions101\bin\Debug\net7.0\Exceptions101.dll
+C:\Users\jedde\Documents\GitHub\foundational-csharp\Exceptions101\bin\Debug\net7.0\Exceptions101.pdb
+C:\Users\jedde\Documents\GitHub\foundational-csharp\Exceptions101\obj\Debug\net7.0\Exceptions101.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jedde\Documents\GitHub\foundational-csharp\Exceptions101\obj\Debug\net7.0\Exceptions101.AssemblyInfoInputs.cache
+C:\Users\jedde\Documents\GitHub\foundational-csharp\Exceptions101\obj\Debug\net7.0\Exceptions101.AssemblyInfo.cs
+C:\Users\jedde\Documents\GitHub\foundational-csharp\Exceptions101\obj\Debug\net7.0\Exceptions101.csproj.CoreCompileInputs.cache
+C:\Users\jedde\Documents\GitHub\foundational-csharp\Exceptions101\obj\Debug\net7.0\Exceptions101.dll
+C:\Users\jedde\Documents\GitHub\foundational-csharp\Exceptions101\obj\Debug\net7.0\refint\Exceptions101.dll
+C:\Users\jedde\Documents\GitHub\foundational-csharp\Exceptions101\obj\Debug\net7.0\Exceptions101.pdb
+C:\Users\jedde\Documents\GitHub\foundational-csharp\Exceptions101\obj\Debug\net7.0\Exceptions101.genruntimeconfig.cache
+C:\Users\jedde\Documents\GitHub\foundational-csharp\Exceptions101\obj\Debug\net7.0\ref\Exceptions101.dll

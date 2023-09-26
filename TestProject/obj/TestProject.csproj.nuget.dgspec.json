@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\jedde\\Documents\\GitHub\\foundational-csharp\\TestProject\\TestProject.csproj": {}
+    "C:\\Users\\jedde\\Documents\\GitHub\\foundational-csharp\\TestProject\\TestProject.csproj": {}
   },
   "projects": {
-    "c:\\Users\\jedde\\Documents\\GitHub\\foundational-csharp\\TestProject\\TestProject.csproj": {
+    "C:\\Users\\jedde\\Documents\\GitHub\\foundational-csharp\\TestProject\\TestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\jedde\\Documents\\GitHub\\foundational-csharp\\TestProject\\TestProject.csproj",
+        "projectUniqueName": "C:\\Users\\jedde\\Documents\\GitHub\\foundational-csharp\\TestProject\\TestProject.csproj",
         "projectName": "TestProject",
-        "projectPath": "c:\\Users\\jedde\\Documents\\GitHub\\foundational-csharp\\TestProject\\TestProject.csproj",
+        "projectPath": "C:\\Users\\jedde\\Documents\\GitHub\\foundational-csharp\\TestProject\\TestProject.csproj",
         "packagesPath": "C:\\Users\\jedde\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\jedde\\Documents\\GitHub\\foundational-csharp\\TestProject\\obj\\",
+        "outputPath": "C:\\Users\\jedde\\Documents\\GitHub\\foundational-csharp\\TestProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jedde\\AppData\\Roaming\\NuGet\\NuGet.Config",

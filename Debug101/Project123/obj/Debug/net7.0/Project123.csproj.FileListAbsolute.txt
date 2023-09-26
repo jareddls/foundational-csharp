@@ -1,0 +1,14 @@
+C:\Users\jedde\Documents\GitHub\foundational-csharp\Debug101\Project123\bin\Debug\net7.0\Project123.exe
+C:\Users\jedde\Documents\GitHub\foundational-csharp\Debug101\Project123\bin\Debug\net7.0\Project123.deps.json
+C:\Users\jedde\Documents\GitHub\foundational-csharp\Debug101\Project123\bin\Debug\net7.0\Project123.runtimeconfig.json
+C:\Users\jedde\Documents\GitHub\foundational-csharp\Debug101\Project123\bin\Debug\net7.0\Project123.dll
+C:\Users\jedde\Documents\GitHub\foundational-csharp\Debug101\Project123\bin\Debug\net7.0\Project123.pdb
+C:\Users\jedde\Documents\GitHub\foundational-csharp\Debug101\Project123\obj\Debug\net7.0\Project123.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jedde\Documents\GitHub\foundational-csharp\Debug101\Project123\obj\Debug\net7.0\Project123.AssemblyInfoInputs.cache
+C:\Users\jedde\Documents\GitHub\foundational-csharp\Debug101\Project123\obj\Debug\net7.0\Project123.AssemblyInfo.cs
+C:\Users\jedde\Documents\GitHub\foundational-csharp\Debug101\Project123\obj\Debug\net7.0\Project123.csproj.CoreCompileInputs.cache
+C:\Users\jedde\Documents\GitHub\foundational-csharp\Debug101\Project123\obj\Debug\net7.0\Project123.dll
+C:\Users\jedde\Documents\GitHub\foundational-csharp\Debug101\Project123\obj\Debug\net7.0\refint\Project123.dll
+C:\Users\jedde\Documents\GitHub\foundational-csharp\Debug101\Project123\obj\Debug\net7.0\Project123.pdb
+C:\Users\jedde\Documents\GitHub\foundational-csharp\Debug101\Project123\obj\Debug\net7.0\Project123.genruntimeconfig.cache
+C:\Users\jedde\Documents\GitHub\foundational-csharp\Debug101\Project123\obj\Debug\net7.0\ref\Project123.dll
